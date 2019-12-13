@@ -9,6 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "dagre": "0.8.5",
+    "glob": "^7.1.6",
     "tslib": "1"
   },
   "files": [

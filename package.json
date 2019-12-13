@@ -7,6 +7,7 @@
     "@commitlint/config-conventional": "8.2.0",
     "@types/dagre": "0.7.42",
     "@types/graphlib-dot": "0.6.1",
+    "@types/glob": "7.1.1",
     "@types/jasmine": "3.5.0",
     "@types/minimist": "1.2.0",
     "@types/node": "12.12.14",
